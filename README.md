@@ -26,7 +26,7 @@
 ### 4. 拖入文件  
    将 ppt、paper等文件**上传**或**直接拖进**刚建好的文件夹  
    单文件不超过 100 MB  
-   **强制包含README.md文件**，填写模板`2025-11-10_汇报人_示例/README.md`
+   **强制包含README.md文件**，填写模板`YYYY-MM-DD_汇报人_示例/README.md`
    <img src="./figures/step3_1.png" alt="step3_1" width="50%"/>
    <img src="./figures/step3_2.png" alt="step3_2" width="60%"/>
 
@@ -46,6 +46,6 @@
    点击`Create`按钮，发起`Pull Request`  
    <img src="./figures/step5_2.png" alt="step5_2" width="60%"/>  
 
-
-## 添加完成
 ---
+
+## 提交完成, 等待管理员合并
